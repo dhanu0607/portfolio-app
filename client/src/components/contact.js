@@ -33,7 +33,7 @@ export default function contact() {
                             <FaGithub className="text-3xl text-gray-400 hover:text-white transition"/>
                             </a>
 
-                            <a href="https://linkedin.com/in/DhanushPoojary" target="_blank" rel="noreferrer">
+                            <a href="https://www.linkedin.com/in/dhanush-poojary-319b42280/" target="_blank" rel="noreferrer">
                             <FaLinkedin className="text-3xl text-blue-400 hover:text-white transition"/>
                             </a>
                         </div>
