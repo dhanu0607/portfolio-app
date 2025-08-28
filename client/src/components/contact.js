@@ -20,7 +20,9 @@ export default function contact() {
                         </p>
                         <div className="flex items-center gap-4">
                             <FaEnvelope className="text-cyan-400 text-2xl"/>
-                                <span>dhanshp630@gmail.com</span>
+                               <a href="mailto:dhanushp630@gmail.com" className="text-cyan-400 hover:underline">
+                                dhanshp630@gmail.com
+                               </a>
                         </div>
                         <div className="flex items-center gap-4">
                             <FaPhone className="text-cyan-400 text-2xl"/>
